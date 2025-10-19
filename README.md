@@ -1,2 +1,2 @@
-# data-quest
+# Data Quest
 This is repository to create a data pipeline architecture utilizing AWS Cloud
