@@ -1,24 +1,26 @@
 # Data Quest
 This is repository to create a data pipeline architecture utilizing AWS Cloud.
 
-### S3 links
-#### pr.class https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.class
-#### pr.contacts https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.contacts
-#### pr.data.0.Current
+###  <ins> S3 links </ins>
+#### <ins> pr.class </ins>
+https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.class
+#### <ins> pr.contacts </ins> 
+https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.contacts
+#### <ins> pr.data.0.Current </ins> 
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.data.0.Current
-#### pr.data.1.AllData
+#### <ins> pr.data.1.AllData </ins> 
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.data.1.AllData
-#### pr.duration
+#### <ins> pr.duration </ins> 
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.duration
-#### pr.footnote
+#### <ins> pr.footnote </ins> 
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.footnote
-#### pr.measure
+#### <ins> pr.measure </ins> 
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.measure
-#### pr.seasonal
+#### <ins> pr.seasonal </ins> 
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.seasonal
-#### pr.sector
+#### <ins> pr.sector </ins> 
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.sector
-#### pr.class
+#### <ins> pr.class </ins>
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.series
-#### pr.txt
+#### <ins> pr.txt </ins>
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.txt
