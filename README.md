@@ -1,7 +1,12 @@
 # Data Quest
 This is repository to create a data pipeline architecture utilizing AWS Cloud.
 
-###  <ins> S3 links </ins>
+## <ins> Part 1: AWS S3 & Sourcing Datasets </ins>
+
+### 1. Republish this open dataset in Amazon S3 and share with us a link.
+###  <ins> Storage Links </ins>
+#### <ins> Amazon S3 bucket </ins>
+https://us-east-2.console.aws.amazon.com/s3/buckets/rearc-dataquest-s3bucket?region=us-east-2&bucketType=general
 #### <ins> pr.class </ins>
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.class
 #### <ins> pr.contacts </ins> 
@@ -24,3 +29,6 @@ https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.sector
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.series
 #### <ins> pr.txt </ins>
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.txt
+
+
+### 2. Script this process so the files in the S3 bucket are kept in sync with the source when data on the website is updated, added, or deleted
