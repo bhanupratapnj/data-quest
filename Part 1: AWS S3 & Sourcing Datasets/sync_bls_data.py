@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import boto3
 import requests
 from bs4 import BeautifulSoup
@@ -90,4 +84,5 @@ for file_name in potentially_deleted_files:
         s3_bucket.Object(file_name).delete()
 
 print("✅ Sync complete.")
+
 
