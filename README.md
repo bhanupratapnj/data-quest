@@ -45,3 +45,19 @@ Refer Python script **get_api_data.py** available under Part2 folder
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.txt
 https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/nation_population.json
 
+
+
+
+
+## <ins> Part 3: Data Analytics </ins>
+
+Refer **data_analysis.ipynb** available under Part2 folder
+
+
+
+
+
+## <ins> Part 4: Infrastructure as Code & Data Pipeline with AWS CDK. </ins>
+
+
+
