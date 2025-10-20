@@ -51,9 +51,10 @@ Refer **data_analysis.ipynb** available under Part2 folder
 
 
 ## <ins> Part 4: Infrastructure as Code & Data Pipeline with AWS CDK. </ins>
-I planned to attempt Part4 using Terraform. Researched on Terraform and stuided the basic of Terraform. Followed below links:
+I decided to attempt Part4 using Terraform. Researched on Terraform and stuided the basic of Terraform. Followed below links:
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code
-https://www.youtube.com/watch?v=wAwVOFf0Xq4
+
+https://www.youtube.com/watch?v=wAwVOFf0Xq4 
 
 
 
