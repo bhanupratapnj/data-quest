@@ -76,3 +76,10 @@ data_reporting.py
 
 
 
+## <ins> AI usage </ins>
+
+Used ChatGpt for understanding the errors that I encountered while submitting terraform plan and terraform apply commands.
+
+
+ 
+
