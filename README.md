@@ -32,13 +32,13 @@ https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/pr.txt
 
 
 ### 2. Script this process so the files in the S3 bucket are kept in sync with the source when data on the website is updated, added, or deleted
-Refer Python script **sync_bls_data.py** available under Part1 folder
+Refer Python script **sync_bls_data.py** available under Part1 folder.
 
 
 ## <ins> Part 2: APIs </ins>
 
 ### 1. Create a script that will fetch data from this API.
-Refer Python script **get_api_data.py** available under Part2 folder
+Refer Python script **get_api_data.py** available under Part2 folder.
 
 ### 2. Save the result of this API call as a JSON file in S3.
 #### <ins> nation_population.json </ins>
@@ -47,7 +47,7 @@ https://rearc-dataquest-s3bucket.s3.us-east-2.amazonaws.com/nation_population.js
 
 
 ## <ins> Part 3: Data Analytics </ins>
-Refer **data_analysis.ipynb** available under Part2 folder
+Refer **data_analysis.ipynb** available under Part3 folder.
 
 
 ## <ins> Part 4: Infrastructure as Code & Data Pipeline with AWS CDK. </ins>
