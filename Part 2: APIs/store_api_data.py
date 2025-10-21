@@ -34,4 +34,3 @@ target_bucket.put_object(
 )
 
 print("Data successfully uploaded to S3 bucket:", S3_BUCKET_NAME)
-
