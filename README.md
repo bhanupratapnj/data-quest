@@ -56,5 +56,9 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructu
 
 https://www.youtube.com/watch?v=wAwVOFf0Xq4 
 
+## <ins> IaC using Terraform </ins>
+
+<img width="1036" height="323" alt="image" src="https://github.com/user-attachments/assets/81507ce9-34fe-4d3e-b033-8afd226ded30" />
+
 
 
