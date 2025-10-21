@@ -61,12 +61,17 @@ https://www.youtube.com/watch?v=wAwVOFf0Xq4
 <img width="1036" height="323" alt="image" src="https://github.com/user-attachments/assets/81507ce9-34fe-4d3e-b033-8afd226ded30" />
 
 #### <ins> Terraform codes: </ins>
+
 01-tf-s3.tf
+
 01-tf-lambda-load.tf
+
 01-tf-eventbridge-sqs.tf
 
 #### <ins> Lambda codes are available in below files: </ins>
+
 data_load.py
+
 data_reporting.py
 
 
