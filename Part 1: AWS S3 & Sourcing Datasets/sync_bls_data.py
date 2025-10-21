@@ -50,12 +50,12 @@ for link_tag in soup.find_all("a"):
         print(f"Failed to download {file_name}: {error}")
         continue
 
-    # --- Upload New Files ---
+    # Upload New Files
     if file_name not in existing_s3_files:
         print(f"Uploading new file: {file_name}")
         s3_bucket.put_object(Key=file_name, Body=file_response.content)
 
-    # --- Update Existing Files ---
+    # Update Existing Files
     else:
         # Retrieve the existing file from S3
         s3_object = s3_bucket.Object(file_name).get()
@@ -77,6 +77,3 @@ for file_name in potentially_deleted_files:
         s3_bucket.Object(file_name).delete()
 
 print("Sync complete.")
-
-
-
